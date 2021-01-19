@@ -16,5 +16,5 @@ http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 1. Create a map using Leaflet that plots all of the earthquakes from dataset based on their longitude and latitude, and magnitude in size and color.
 2. Include popups that provide additional information about the earthquake when a marker is clicked.
 ![2-BasicMap](Images/2-BasicMap.png)
-3. Illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+3. Illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates found at <https://github.com/fraxen/tectonicplates>.
 ![5-Advanced](Images/5-Advanced.png)
